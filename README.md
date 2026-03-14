@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Kevin
 
-<!--
-**Kevinscr2345/Kevinscr2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
 
-Here are some ideas to get you started:
+💻 **Aspiring Software Developer** passionate about programming and continuous learning.
+Currently focused on improving my skills in **Python, JavaScript, and SQL** while building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🌱 Currently learning **Python, JavaScript, and SQL**
+* 💻 Interested in **web development and databases**
+* 📚 I enjoy learning by building **hands-on projects**
+* 🎯 My goal is to become a **professional software developer**
+
+---
+
+## 🛠️ Languages and Tools
+
+**Languages**
+
+* Python
+* JavaScript
+* SQL
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📊 What I'm Working On
+
+* Building small projects to improve my programming skills
+* Practicing **SQL queries and database design**
+* Learning more about **web development with JavaScript**
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: (your LinkedIn link)
+* GitHub: (your GitHub profile)
+
+---
+
+⭐ Always open to learning new technologies and improving my development skills.
+
+
+## GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevinscr2345&theme=highcontrast)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevinscr2345&theme=highcontrast)](https://git.io/streak-stats)
