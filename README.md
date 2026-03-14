@@ -54,6 +54,6 @@ Currently focused on improving my skills in **Python, JavaScript, and SQL** whil
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevinscr2345&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kevinscr2345&theme=highcontrast)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinscr2345&layout=donut-vertical&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
