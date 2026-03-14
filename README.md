@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Kevin
-
 <p align="center">
   <img src="assets/Portada.png" width="100%">
 </p>
+
+# 👋 Hi, I'm Kevin
 
 💻 **Aspiring Software Developer** passionate about programming and continuous learning.
 Currently focused on improving my skills in **Python, JavaScript, and SQL** while building practical projects.
@@ -56,4 +56,4 @@ Currently focused on improving my skills in **Python, JavaScript, and SQL** whil
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevinscr2345&theme=highcontrast)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevinscr2345&theme=highcontrast)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
