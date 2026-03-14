@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kevin
 
 <p align="center">
-  <img src="assets/banner.png" width="100%">
+  <img src="assets/Portada.png" width="100%">
 </p>
 
 💻 **Aspiring Software Developer** passionate about programming and continuous learning.
