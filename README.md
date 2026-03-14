@@ -44,8 +44,8 @@ Currently focused on improving my skills in **Python, JavaScript, and SQL** whil
 
 ## 🌐 Connect With Me
 
-* LinkedIn: (your LinkedIn link)
-* GitHub: (your GitHub profile)
+- LinkedIn: https://www.linkedin.com/in/kevin-vargas-906417168
+- GitHub: https://github.com/Kevinscr2345
 
 ---
 
