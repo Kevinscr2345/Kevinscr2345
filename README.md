@@ -56,4 +56,4 @@ Currently focused on improving my skills in **Python, JavaScript, and SQL** whil
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kevinscr2345&theme=highcontrast)](https://git.io/streak-stats)
 
-![Most Used Languages](https://raw.githubusercontent.com/Kevinscr2345/github-stats-transparent/output/generated/languages.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinscr2345&layout=compact&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9)
