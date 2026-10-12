@@ -1,10 +1,3 @@
-<style>
-  
-  img{
-    top:0;
-    position: sticky;
-  </style>
-  
 <p align="center">
   <img src="assets/Banner.jpg" width="100%">
 </p>
