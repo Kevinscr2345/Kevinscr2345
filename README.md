@@ -38,7 +38,7 @@ Currently focused on improving my skills in **Node.js, JavaScript, and PostgreSQ
 ## 📊 What I'm Working On
 
 * Building small projects to improve my programming skills
-* Practicing **SQL queries and database design**
+* Practicing **PostgreSQL queries and database design**
 * Learning more about **web development with JavaScript**
 
 ---
