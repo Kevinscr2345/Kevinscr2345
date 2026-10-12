@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Portada.png" width="100%">
+  <img src="assets/Banner.jpg" width="100%">
 </p>
 
 # 👋 Hi, I'm Kevin
