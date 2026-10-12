@@ -5,13 +5,13 @@
 # 👋 Hi, I'm Kevin
 
 💻 **Aspiring Software Developer** passionate about programming and continuous learning.
-Currently focused on improving my skills in **Python, JavaScript, and SQL** while building practical projects.
+Currently focused on improving my skills in **Node.js, JavaScript, and PostgreSQL** while building practical projects.
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Python, JavaScript, and SQL**
+* 🌱 Currently learning **Node.js, JavaScript, React and PostgreSQL**
 * 💻 Interested in **web development and databases**
 * 📚 I enjoy learning by building **hands-on projects**
 * 🎯 My goal is to become a **professional software developer**
@@ -22,9 +22,10 @@ Currently focused on improving my skills in **Python, JavaScript, and SQL** whil
 
 **Languages**
 
-* Python
+* Node.js
+* React
 * JavaScript
-* SQL
+* PostgreSQL
 
 **Tools**
 
